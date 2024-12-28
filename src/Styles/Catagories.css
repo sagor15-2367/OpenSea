@@ -1,0 +1,27 @@
+.catagoriesBox button:hover {
+  box-shadow: 0px 1px 2px rgb(75, 8, 8);
+  background-color: #018c12;
+  color: #ffffff;
+}
+.catagoriesBox {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+.catagoriesBox button {
+  height: auto;
+  width: auto;
+  box-shadow: 0px 1px 2px rgb(70, 70, 70);
+  border-radius: 5px;
+  align-items: center;
+  background-color: rgb(108, 167, 26);
+  padding: 10px;
+  color: #ffffff;
+  border: none;
+  font-size: 18px;
+}
+.decoration {
+  display: flex;
+  background-color: hsl(85, 73%, 38%);
+  padding: 35px 0px 10px 15px;
+}

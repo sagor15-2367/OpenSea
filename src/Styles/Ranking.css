@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.rank {
+  padding: 15px;
+}
+.rankTitle {
+  display: flex;
+  width: 70%;
+  justify-content: space-between;
+  padding: 15px;
+}
+.rankTitle p {
+  font-size: 18px;
+  font-weight: 700;
+}
+.row {
+  height: 1px;
+  width: 70%;
+  background-color: black;
+  margin-left: 13px;
+}
+.orderList li {
+    display: flex;
+    margin-top: 15px;
+    width: 70%;
+    padding-left: 25px;
+    justify-content: space-between;
+    font-size: large;
+    font-weight: 700;
+}
+.logoBox{
+    display: flex;
+}
+.logoBox img {
+    margin-right: 20px;
+    /* margin-left: 10px; */
+}
+.p{
+    margin-left: -90px;
+}

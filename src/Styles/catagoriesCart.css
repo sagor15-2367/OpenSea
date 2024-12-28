@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.mainCartBox {
+  justify-content: space-evenly;
+  padding: 0px;
+  display: flex;
+  width: 100%;
+}
+.cart img {
+  border-radius: 15px;
+  margin-top: 25px;
+  width: 40dvh;
+  height: 55dvh;
+}
+.cart {
+  position: relative;
+}
+.cart h2 {
+  position: absolute;
+  color: #d1fe3d;
+  top: 45px;
+  left: 20px;
+}
+.cart p {
+  position: absolute;
+  top: 80px;
+  color: #d1fe3d;
+  left: 20px;
+}
